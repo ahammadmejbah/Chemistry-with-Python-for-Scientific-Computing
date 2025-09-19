@@ -1,2 +1,1 @@
-# A.L.P.H.A-Chemistry
-A.L.P.H.A-Chemistry
+# Chemistry with Python for Scientific Computing
